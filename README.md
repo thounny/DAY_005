@@ -4,11 +4,11 @@ This project is part of the daily code challenge series, **DAY_005**, and it fea
 
 ---
 
-## DEMO
+## INSPIRATION
 
 ![Corentin Magnetti Awwwards Element](./assets/DAY_005_1.gif)  
 
-## INSPIRATION
+## DEMO
 
 ![Realistic Physics Landing Page Demo](./assets/DAY_005_2.gif)  
 
